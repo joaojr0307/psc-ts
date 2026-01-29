@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="PSC+TS - Formulários de Serviços Financeiros">
+    <title>PSC+TS - Formulários de Propostas</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Service Selection Screen -->
+            <section id="serviceSelection" class="service-selection">
+                <h1 class="main-title">Escolha o Serviço</h1>
+                <p class="subtitle">Selecione o tipo de proposta que deseja enviar</p>
+
+                <!-- Category Tabs -->
+                <div class="category-tabs">
+                    <button class="tab-btn active" data-category="all">Todos</button>
+                    <button class="tab-btn" data-category="PJ">Pessoa Jurídica</button>
+                    <button class="tab-btn" data-category="PF">Pessoa Física</button>
+                </div>
+
+                <!-- Service Cards Grid -->
+                <div id="serviceCards" class="service-cards">
+                    <!-- Cards will be dynamically generated -->
+                </div>
+            </section>
+
+            <!-- Form Screen -->
+            <section id="formScreen" class="form-screen hidden">
+                <div class="form-logo-container">
+                    <img src="logo.png" alt="PSC+TS Logo" class="form-logo">
+                </div>
+
+                <h2 id="formTitle" class="form-title"></h2>
+
+                <form id="dynamicForm" class="dynamic-form">
+                    <!-- Form fields will be dynamically generated -->
+                </form>
+
+                <button id="submitBtn" class="submit-btn">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+                        <path
+                            d="M3 12L5 10M5 10L12 3L19 10M5 10V20C5 20.5304 5.21071 21.0391 5.58579 21.4142C5.96086 21.7893 6.46957 22 7 22H17C17.5304 22 18.0391 21.7893 18.4142 21.4142C18.7893 21.0391 19 20.5304 19 20V10M5 10L12 3L19 10"
+                            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                    </svg>
+                    <span>ENVIAR PROPOSTA VIA WHATSAPP</span>
+                </button>
+            </section>
+        </main>
+
+        <!-- Footer -->
+        <footer class="app-footer">
+            <p id="footerNotice" class="footer-notice">
+                Observações: o cliente receberá tokens de bancos parceiros e e-mails do portal DInDin e BPO.
+            </p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

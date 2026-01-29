@@ -1,0 +1,110 @@
+# Links Diretos dos Formulários - PSC+TS
+
+## 🏢 PESSOA JURÍDICA (PJ) - PSC+TS - 11 Formulários
+
+1. **Antecipação de Recebíveis**
+   `index.html?form=antecipacao-recebiveis`
+
+2. **Capital de Giro – Aval**
+   `index.html?form=capital-giro-aval`
+
+3. **Capital de Giro – BNDES FGI**
+   `index.html?form=capital-giro-bndes`
+
+4. **Capital de Giro – Garantia**
+   `index.html?form=capital-giro-garantia`
+
+5. **Consórcio – Pessoa Jurídica** (PSC+TS)
+   `index.html?form=consorcio-pj-psc-ts`
+
+6. **Energia Livre**
+   `index.html?form=energia-livre`
+
+7. **Finame**
+   `index.html?form=finame`
+
+8. **Leasing Empresarial**
+   `index.html?form=leasing-empresarial`
+
+9. **Operações Agro**
+   `index.html?form=operacoes-agro`
+
+10. **Planos de Saúde – PJ**
+    `index.html?form=planos-saude-pj`
+
+11. **Seguros – PJ**
+    `index.html?form=seguros-pj`
+
+---
+
+## 👤 PESSOA FÍSICA (PF) - PSC+TS - 12 Formulários
+
+1. **Cartão Consignado Benefício**
+   `index.html?form=cartao-consignado`
+
+2. **Consignado INSS**
+   `index.html?form=consignado-inss`
+
+3. **Consignado Privado**
+   `index.html?form=consignado-privado`
+
+4. **Consignado Público**
+   `index.html?form=consignado-publico`
+
+5. **Consórcio – Pessoa Física** (PSC+TS)
+   `index.html?form=consorcio-pf-psc-ts`
+
+6. **Financiamento Imobiliário**
+   `index.html?form=financiamento-imobiliario`
+
+7. **Home Equity**
+   `index.html?form=home-equity`
+
+8. **Financiamento de Veículos**
+   `index.html?form=financiamento-veiculos`
+
+9. **Planos de Saúde – PF**
+   `index.html?form=planos-saude-pf`
+
+10. **Seguros – PF**
+    `index.html?form=seguros-pf`
+
+11. **Portabilidade/Refin**
+    `index.html?form=portabilidade-refin`
+
+12. **Saque Aniversário FGTS**
+    `index.html?form=saque-aniversario-fgts`
+
+---
+
+## 🎯 PSC CONSÓRCIOS - 2 Formulários (Logo Específica)
+
+1. **Consórcio – Pessoa Física** (PSC Consórcios)
+   `index.html?form=consorcio-pf`
+   _Logo: PSC Consórcios_
+
+2. **Consórcio – Pessoa Jurídica** (PSC Consórcios)
+   `index.html?form=consorcio-pj`
+   _Logo: PSC Consórcios_
+
+---
+
+## 📊 Resumo
+
+- **Total de formulários**: 25
+- **PSC+TS - Pessoa Jurídica (PJ)**: 11 formulários
+- **PSC+TS - Pessoa Física (PF)**: 12 formulários
+- **PSC Consórcios**: 2 formulários (com logo específica)
+
+### Detalhamento
+- Formulários com logo **PSC+TS**: 23
+- Formulários com logo **PSC Consórcios**: 2
+
+## 🎨 Características
+
+- ✅ Tema preto e dourado
+- ✅ Logo dinâmica (PSC+TS ou PSC Consórcios)
+- ✅ Links diretos para cada formulário
+- ✅ Formatação profissional para WhatsApp
+- ✅ Campos organizados por categoria
+- ✅ Consórcios disponíveis em duas versões (PSC+TS e PSC Consórcios)
