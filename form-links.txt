@@ -1,6 +1,6 @@
 # Links Diretos dos Formulários - PSC+TS
 
-## 🏢 PESSOA JURÍDICA (PJ) - PSC+TS - 11 Formulários
+## 🏢 PESSOA JURÍDICA (PJ) - PSC+TS - 12 Formulários
 
 1. **Antecipação de Recebíveis**
    `index.html?form=antecipacao-recebiveis`
@@ -34,6 +34,9 @@
 
 11. **Seguros – PJ**
     `index.html?form=seguros-pj`
+
+12. **Câmbio – Pessoa Jurídica**
+    `index.html?form=cambio-pj`
 
 ---
 
@@ -91,13 +94,13 @@
 
 ## 📊 Resumo
 
-- **Total de formulários**: 25
-- **PSC+TS - Pessoa Jurídica (PJ)**: 11 formulários
+- **Total de formulários**: 26
+- **PSC+TS - Pessoa Jurídica (PJ)**: 12 formulários
 - **PSC+TS - Pessoa Física (PF)**: 12 formulários
 - **PSC Consórcios**: 2 formulários (com logo específica)
 
 ### Detalhamento
-- Formulários com logo **PSC+TS**: 23
+- Formulários com logo **PSC+TS**: 24
 - Formulários com logo **PSC Consórcios**: 2
 
 ## 🎨 Características

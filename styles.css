@@ -389,6 +389,29 @@ body {
     animation-delay: 0.25s;
 }
 
+.form-info {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-left: 3px solid var(--text-secondary);
+    border-radius: 8px;
+    padding: var(--spacing-sm);
+    animation: fadeInUp 0.4s ease backwards;
+}
+
+.form-info strong {
+    display: block;
+    color: var(--text-secondary);
+    margin-bottom: var(--spacing-xs);
+    font-size: var(--font-size-base);
+}
+
+.form-info p {
+    margin: 0;
+    color: var(--text-primary);
+    font-size: var(--font-size-sm);
+    line-height: 1.5;
+}
+
 @keyframes fadeInUp {
     from {
         opacity: 0;
